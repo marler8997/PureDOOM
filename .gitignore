@@ -5,3 +5,6 @@ references/
 .DS_Store
 .vscode
 *.DLL
+zig-cache/
+zig-out/
+/dep/
